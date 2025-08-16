@@ -1,0 +1,11 @@
+i will use google ai studio api  also use advance model like 2.5 pro or flash
+i want reporting scope of the report especially esg data
+2.i want qunatitive esg data like:
+GHG scope 1 & 2 and 3 also if there is any gas wise breakdown or gas used for caluclation detail like kyto gases
+-. energy consumption
+water data- consumption with detail of sources if any ( water consumption is not equal to water use) if water use is given check for evidences  if water use is actually consumption ( evidence like gri or any note ), water withdrawal , water discharge, water stress
+-. waste data in detail al type, disposal routes etc
+other emission data ( all details)
+if no data check if any details given related to ESG reports or data listed any where any links or not
+now you can also suggest some points to me i cant affoard any errors
+also in output i want data in a structured format a proper table in with units must be there and page source and section must be there , page number is of pdf not printed page number in pdf
